@@ -28,3 +28,7 @@ Mais c'est un peu différent, il faudra éditer les **Serveurs DNS** du domaine,
  +9. Écrire les noms DNS que vous trouvez dans OVH puis "Enregistrer"
  
  +Voilà !
+
+
+
+>>>>>>> coursweb/master
