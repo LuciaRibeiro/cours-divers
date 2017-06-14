@@ -30,5 +30,3 @@ Le domaine enregisté sur Infomaniak est ajouté sur OVH.
 Voilà !
 
 
-
->>>>>>> coursweb/master
